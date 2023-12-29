@@ -15,7 +15,7 @@ $(function () {
             $this.prop("disabled", true);
 
             $.ajax({
-                url: "https://formsubmit.co/advocacyfordigitaldemocracy@gmail.com",
+                url: "https://formsubmit.co/opencommunityinitiative@gmail.com",
                 type: "POST",
                 data: {
                     name: name,
